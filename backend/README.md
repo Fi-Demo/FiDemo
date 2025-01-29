@@ -1,2 +1,0 @@
-# FiDemo
-Finance &amp; Demography
